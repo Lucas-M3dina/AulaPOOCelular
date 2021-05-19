@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\GIT\CelularPOO\bin\Debug\net5.0\CelularPOO.exe
+C:\Users\User\Desktop\GIT\CelularPOO\bin\Debug\net5.0\CelularPOO.deps.json
+C:\Users\User\Desktop\GIT\CelularPOO\bin\Debug\net5.0\CelularPOO.runtimeconfig.json
+C:\Users\User\Desktop\GIT\CelularPOO\bin\Debug\net5.0\CelularPOO.runtimeconfig.dev.json
+C:\Users\User\Desktop\GIT\CelularPOO\bin\Debug\net5.0\CelularPOO.dll
+C:\Users\User\Desktop\GIT\CelularPOO\bin\Debug\net5.0\ref\CelularPOO.dll
+C:\Users\User\Desktop\GIT\CelularPOO\bin\Debug\net5.0\CelularPOO.pdb
+C:\Users\User\Desktop\GIT\CelularPOO\obj\Debug\net5.0\CelularPOO.csprojAssemblyReference.cache
+C:\Users\User\Desktop\GIT\CelularPOO\obj\Debug\net5.0\CelularPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GIT\CelularPOO\obj\Debug\net5.0\CelularPOO.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GIT\CelularPOO\obj\Debug\net5.0\CelularPOO.AssemblyInfo.cs
+C:\Users\User\Desktop\GIT\CelularPOO\obj\Debug\net5.0\CelularPOO.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GIT\CelularPOO\obj\Debug\net5.0\CelularPOO.dll
+C:\Users\User\Desktop\GIT\CelularPOO\obj\Debug\net5.0\ref\CelularPOO.dll
+C:\Users\User\Desktop\GIT\CelularPOO\obj\Debug\net5.0\CelularPOO.pdb
+C:\Users\User\Desktop\GIT\CelularPOO\obj\Debug\net5.0\CelularPOO.genruntimeconfig.cache
