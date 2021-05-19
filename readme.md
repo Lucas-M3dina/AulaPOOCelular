@@ -1,4 +1,4 @@
-ATIVIDADE
+ATIVIDADE: 
 Faça em sua máquina utilizando os mesmos conceitos dado em aula.
 
 <li> Crie uma Classe de um Celular, com as propriedades cor, modelo, tamanho, ligado(booleano). </li> 
